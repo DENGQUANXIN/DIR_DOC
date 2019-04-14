@@ -1,0 +1,2 @@
+dir=/home/doubtd/Documents/interest/DIR_DOC
+python3 $dir/dir_doc.py
